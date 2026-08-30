@@ -1,0 +1,26 @@
+product_id,product_name,category,base_price,is_active
+P001,Laptop,Electronics,45000,Y
+P002,Mobile,Electronics,22000,Y
+P003,Headphones,Electronics,2500,Y
+P004,Television,Electronics,32000,Y
+P005,Smartwatch,Electronics,6500,Y
+P006,Shoes,Fashion,2500,Y
+P007,Jeans,Fashion,1800,Y
+P008,Jacket,Fashion,3200,Y
+P009,T-Shirt,Fashion,900,Y
+P010,Backpack,Fashion,1500,Y
+P011,Rice Bag,Grocery,1200,Y
+P012,Cooking Oil,Grocery,850,Y
+P013,Dry Fruits,Grocery,1400,Y
+P014,Flour,Grocery,600,Y
+P015,Tea,Grocery,450,Y
+P016,Chair,Home,3500,Y
+P017,Table,Home,7000,Y
+P018,Lamp,Home,1200,Y
+P019,Bedsheet,Home,1600,Y
+P020,Cookware,Home,2800,Y
+P021,Cricket Bat,Sports,4000,Y
+P022,Football,Sports,1500,Y
+P023,Yoga Mat,Sports,900,Y
+P024,Dumbbells,Sports,4500,Y
+P025,Running Shoes,Sports,3500,Y

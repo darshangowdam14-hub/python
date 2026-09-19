@@ -1,0 +1,8 @@
+emp_id,emp_name,department,salary
+401,John,IT,50000
+402,Rahul,HR,60000
+403,Priya,FIN
+404,Amit,HR,70000,EXTRA_VALUE
+ABC,Neha,IT,90000
+405,Sam,IT,80000
+406,Riya,,72000
